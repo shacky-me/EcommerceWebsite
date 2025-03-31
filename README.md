@@ -1,6 +1,5 @@
-# Build and Deploy E-commerce Website
-
-This project is a fully functional e-commerce website built using **HTML**, **CSS**, and **JavaScript**. It showcases a modern, responsive design and includes essential features for an online store.
+# My EcommerceWebsite
+This project is a functional e-commerce website built using **HTML**, **CSS**, and **JavaScript**. It showcases a modern, responsive design and includes essential features for an online store.
 
 ## Features
 
@@ -20,17 +19,17 @@ This project is a fully functional e-commerce website built using **HTML**, **CS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-website.git
+   git clone https://github.com/your-username/EcommerceWebsite.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ecommerce-website
+   cd EcommerceWebsite
    ```
 3. Open `index.html` in your browser to view the website.
 
 ## Deployment
 
-The live version of this project is hosted on Netlify. You can access it here: [E-commerce Website on Netlify](https://kigenmeshack.netlify.app/)
+The live version of this project is hosted on Netlify. You can access it here: [EcommerceWebsite on Netlify](https://kigenmeshack.netlify.app/)
 
 ## Project Structure
 
@@ -56,7 +55,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Icons by [FontAwesome](https://fontawesome.com/)
+- Icons by [FontAwesome](https://fontawesome.com/) & [Flaticon](https://www.flaticon.com/)
 - Images from [Unsplash](https://unsplash.com/)
 
 ---
